@@ -40,5 +40,10 @@ p {font-size: 18px;}
 .headset {
    left: 700px;
    background-color: #b22a58;}
-.headset:hover {background-color: #841b3f;}
 .headset1 {background-color: #b22a58;}
+.headset:hover {background-color: #841b3f;}
+.other {
+   left: 920px;
+   background-color: #7fb208;}
+.other1 {background-color: #7fb208;}
+.other:hover {background-color: #517204;}
